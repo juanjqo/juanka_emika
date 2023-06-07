@@ -1,0 +1,3 @@
+[submodule "sas_robot_driver_franka"]
+	path = sas_robot_driver_franka
+	url = https://github.com/juanjqo/sas_robot_driver_franka.git
